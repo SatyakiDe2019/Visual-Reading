@@ -41,7 +41,7 @@ Make sure that you are properly connected with a functional WebCam (Preferably a
 
 ## Screenshots
 
-![Demo.GIF](demo.GIF)
+![Demo.GIF](Demo.GIF)
 
 ## Resources
 
