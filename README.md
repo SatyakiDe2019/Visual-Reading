@@ -25,6 +25,25 @@ Install the requirements:
 ```bash
 pip install -r requirements.txt
 ```
+You need to have the following directory to run this application correctly 
+
+```
+.
+├── Data
+│   └── A_Z_Handwritten_Data.csv
+├── Model
+│   └── model_trained_8.p
+├── README.md
+├── clsAlphabetReading.py
+├── clsConfig.py
+├── clsL.py
+├── log
+│   └── restoreVideo.log
+├── readingVisualData.py
+├── requirements.txt
+└── trainingVisualDataRead.py
+
+```
 
 Run the model training for Visual Reading-App:
 
